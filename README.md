@@ -31,7 +31,7 @@ A guided approach at Trackmania AI and a real life application using Particle Sw
 
 ## Currently Learning
 
-- GPU programming with **CUDA**
+- GPU programming with **CUDA** and **Triton**
 - Modern **.NET** ecosystem (C# 12, MAUI)
 
 ---
