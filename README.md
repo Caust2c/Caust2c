@@ -38,4 +38,3 @@ A guided approach at Trackmania AI and a real life application using Particle Sw
 
 > "Idk."
 
----
